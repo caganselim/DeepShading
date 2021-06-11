@@ -34,11 +34,11 @@ The dataset was available (700GB) during the implementation, however the authors
 
 #### AO
 
-![DoF](visuals/ambient_occlusion_32.png )
+![AO](visuals/ambient_occlusion_32.png )
 
 #### DO
 
-![DoF](visuals/directional_occlusion_91.png)
+![DO](visuals/directional_occlusion_91.png)
 
 #### DoF
 
@@ -46,12 +46,11 @@ The dataset was available (700GB) during the implementation, however the authors
 
 #### AO + DoF
 
-![DoF](visuals/ao_dof_156.png )
+![AODoF](visuals/ao_dof_156.png )
 
 #### MB
 
-
-![DoF](visuals/motion_blur_636.png )
+![MB](visuals/motion_blur_636.png )
 
 
 
