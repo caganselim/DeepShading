@@ -30,7 +30,31 @@ You can access the trained models here: [Google Drive](https://drive.google.com/
 
 ### Dataset
 
-The dataset was available (700GB) during the implementation, however the authors decided to restrict access.
+The dataset was available (700GB) during the implementation, however the authors decided to restrict access. Here we have some visualizations:
+
+#### AO
+
+![DoF](visuals/ambient_occlusion_32.png )
+
+#### DO
+
+![DoF](visuals/directional_occlusion_91.png)
+
+#### DoF
+
+![DoF](visuals/dof_52.png )
+
+#### AO + DoF
+
+![DoF](visuals/ao_dof_156.png )
+
+#### MB
+
+
+![DoF](visuals/motion_blur_636.png )
+
+
+
 
 ### Requirements
 
